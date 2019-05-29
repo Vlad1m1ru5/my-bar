@@ -1,5 +1,3 @@
-package java.main;
-
 // Лёд
 public class Ice {
     // Слит

@@ -1,5 +1,3 @@
-package java.main;
-
 // Ингредиент
 public class Ingredient {
     // Подготовлен

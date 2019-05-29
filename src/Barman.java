@@ -1,5 +1,3 @@
-package java.main;
-
 // Бармэн
 public class Barman {
     // Коктейль

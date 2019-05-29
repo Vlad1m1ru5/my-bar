@@ -1,5 +1,3 @@
-package java.main;
-
 // Коктейль
 public class Cocktail {
     // Готов

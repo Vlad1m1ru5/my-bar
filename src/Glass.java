@@ -1,5 +1,3 @@
-package java.main;
-
 // Стакан
 public class Glass {
     // Чист

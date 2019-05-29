@@ -1,5 +1,3 @@
-package java.main;
-
 // Шейкер
 public class Shaker {
     // Охлаждён
